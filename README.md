@@ -18,15 +18,15 @@ Update task status via dropdowns with visual styling (e.g., different colors for
 View all tasks ([task_all_tasks]) for Project Managers or assigned tasks ([task_my_tasks]) for Team Members.
 
 **Shortcodes:**
-[task_login]: Login form for Project Managers and Team Members.
+**[task_login]:** Login form for Project Managers and Team Members.
 
-[task_user_list]: Manage users (create, edit, delete) for Project Managers.
+**[task_user_list]:** Manage users (create, edit, delete) for Project Managers.
 
-[task_create_task]: Create new tasks for Project Managers.
+**[task_create_task]:** Create new tasks for Project Managers.
 
-[task_all_tasks]: View and manage all tasks for Project Managers.
+**[task_all_tasks]:** View and manage all tasks for Project Managers.
 
-[task_my_tasks]: View and update assigned tasks for Team Members.
+**[task_my_tasks]:** View and update assigned tasks for Team Members.
 
 
 
@@ -46,7 +46,7 @@ Team Members: Can view and update the status of their assigned tasks.
 
 Clone the repository or download the ZIP file from GitHub:
 
-git clone https://github.com/your-username/task-management-system.git
+git clone https://github.com/nethuesraj-rgb/WordPress-Task-Manager-Plugin-.git
 
 Alternatively, download the ZIP from the Releases page.
 
@@ -68,15 +68,15 @@ Ensure your WordPress database user has sufficient permissions to create and mod
 
 Create the following WordPress pages and add the corresponding shortcodes:
 
-Login Page: [task_login]
+**Login Page:** [task_login]
 
-User Management Page: [task_user_list] (for Project Managers)
+**User Management Page:** [task_user_list] (for Project Managers)
 
-Create Task Page: [task_create_task] (for Project Managers)
+**Create Task Page:** [task_create_task] (for Project Managers)
 
-All Tasks Page: [task_all_tasks] (for Project Managers)
+**All Tasks Page:** [task_all_tasks] (for Project Managers)
 
-My Tasks Page: [task_my_tasks] (for Team Members)
+**My Tasks Page:** [task_my_tasks] (for Team Members)
 
 Example: Create a page named "Task Login", add [task_login] in the content, and publish.
 
