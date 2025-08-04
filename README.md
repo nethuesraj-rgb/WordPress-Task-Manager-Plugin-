@@ -1,4 +1,4 @@
-# WordPress-Task-Manager-Plugin-
+# WordPress-Task-Manager-Plugin
 A WordPress plugin for managing tasks and users, with role-based access for Project Managers and Team Members.
 
 **Task Management System** is a WordPress plugin designed to manage tasks and users with role-based access. It allows Project Managers to create, edit, and delete tasks and users, while Team Members can view and update the status of their assigned tasks. All actions (task/user creation, editing, deletion, and status updates) are performed dynamically using AJAX, ensuring a seamless user experience without page refreshes.
